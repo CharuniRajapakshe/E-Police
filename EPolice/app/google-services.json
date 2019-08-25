@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "968055784822",
+    "firebase_url": "https://epolice-9ef5e.firebaseio.com",
+    "project_id": "epolice-9ef5e",
+    "storage_bucket": "epolice-9ef5e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:968055784822:android:ee894186201418eb",
+        "android_client_info": {
+          "package_name": "com.example.epolice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "968055784822-eoivk93ig6reuiiq4gdfnf41dgjs08e7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.epolice",
+            "certificate_hash": "54b3c1733d19d313642274f6876a4b0216a0c968"
+          }
+        },
+        {
+          "client_id": "968055784822-m34ilsnsjsod3u0scrc8o7nq5q84oj4j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyt0t33oZmoertYsS8LVlNuK3V-nmLWKU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "968055784822-m34ilsnsjsod3u0scrc8o7nq5q84oj4j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
